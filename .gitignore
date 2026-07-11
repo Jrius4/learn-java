@@ -1,0 +1,17 @@
+*.class
+*.jar
+*.war
+*.ear
+*.log
+hs_err_pid*
+
+target/
+build/
+out/
+.gradle/
+
+.idea/
+*.iml
+.classpath
+.project
+.settings/
